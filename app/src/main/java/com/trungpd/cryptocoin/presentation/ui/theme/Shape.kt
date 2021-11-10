@@ -1,4 +1,4 @@
-package com.trungpd.cryptocoin.ui.theme
+package com.trungpd.cryptocoin.presentation.ui.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes
